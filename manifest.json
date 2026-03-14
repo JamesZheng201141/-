@@ -1,0 +1,16 @@
+{
+  "short_name": "般若伴侣",
+  "name": "般若伴侣 - 佛教修行助手",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/notionists/svg?seed=Prajna&backgroundColor=5d4037",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5d4037",
+  "background_color": "#f5f5f0",
+  "orientation": "portrait"
+}
